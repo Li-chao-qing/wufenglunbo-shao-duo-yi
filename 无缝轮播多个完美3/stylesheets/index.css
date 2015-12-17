@@ -1,0 +1,33 @@
+.aa{
+	width:500px;
+	height:375px;
+	border:1px solid #ccc;
+	position: absolute;
+	left: 0;
+	top:0;
+	margin: 2px;
+}
+
+
+#sc{
+	width:506px;
+	height:381px;
+	border:1px solid #ccc;
+	margin:50px auto;
+	overflow: hidden;
+	position: relative;
+}
+#chang{
+	width:826px;
+	height:208px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.ding{
+	width:506px;
+	height:208px;
+	position: absolute;
+	left:506px;
+	top: 0;
+}
